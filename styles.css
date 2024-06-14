@@ -1,0 +1,59 @@
+@font-face {
+  font-family: 'Roboto';
+  src: url('./fonts/Roboto-Regular.woff2') format('woff2');
+  font-style: normal;
+  font-weight: 400;
+  font-display: swap;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  display: flex;
+  height: 100vh;
+  font-family: 'Roboto', sans-serif;
+}
+
+button {
+  font-family: inherit;
+}
+
+.column {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.column h2 {
+  padding: 10px;
+  color: white;
+  border-radius: 10px;
+  transition: background-color 0.3s;
+}
+
+.column h2:hover {
+  background: rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
+
+.column button {
+  border: none;
+  outline: none;
+  background: transparent;
+  font-size: 1.5rem;
+  color: white;
+  transition: background-color 0.3s;
+  padding: 10px;
+  border-radius: 10px;
+}
+
+.column button:hover {
+  background: rgba(0, 0, 0, 0.1);
+  cursor: pointer;
+}
