@@ -1,5 +1,5 @@
 # Functionality
-- Random color generator random colors by pressing space key
+- Random color generator
 
 # Used technologies
 -  JavaScript
