@@ -1,5 +1,7 @@
 # Functionality
 - Random color generator
+- Option to fix the color
+- Сolors are saved after the page is refreshed
 
 # Used technologies
 -  JavaScript
