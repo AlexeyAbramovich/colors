@@ -8,5 +8,6 @@
 -  chroma.js
 
 # Preview
-![image](https://github.com/AlexeyAbramovich/colors/assets/74393859/4cb2ad33-77c9-4adc-8870-af0cc9329630)
+![image](https://github.com/user-attachments/assets/cbc72c65-77cf-4b14-8c5c-28309561d0c5)
+
 
